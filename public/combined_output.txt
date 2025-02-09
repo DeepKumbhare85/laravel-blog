@@ -1,0 +1,300 @@
+Starting Composer Install 
+Command: "C:\Users\kumbh\.config\herd\bin\php83\php.exe" "C:\Users\kumbh\.config\herd\bin\composer.phar" install 
+Installing dependencies from lock file (including require-dev)
+Verifying lock file contents can be installed on current platform.
+Package operations: 194 installs, 0 updates, 0 removals
+    0 [>---------------------------]    0 [->--------------------------]
+  - Installing pestphp/pest-plugin (v3.0.0): Extracting archive
+  - Installing alebatistella/duskapiconf (v1.2.5): Extracting archive
+  - Installing voku/portable-ascii (2.0.3): Extracting archive
+  - Installing symfony/polyfill-php80 (v1.31.0): Extracting archive
+  - Installing symfony/polyfill-mbstring (v1.31.0): Extracting archive
+  - Installing symfony/polyfill-ctype (v1.31.0): Extracting archive
+  - Installing phpoption/phpoption (1.9.3): Extracting archive
+  - Installing graham-campbell/result-type (v1.1.3): Extracting archive
+  - Installing vlucas/phpdotenv (v5.6.1): Extracting archive
+  - Installing symfony/css-selector (v7.2.0): Extracting archive
+  - Installing tijsverkoyen/css-to-inline-styles (v2.2.7): Extracting archive
+  - Installing symfony/var-dumper (v7.2.0): Extracting archive
+  - Installing symfony/polyfill-uuid (v1.31.0): Extracting archive
+  - Installing symfony/uid (v7.2.0): Extracting archive
+  - Installing symfony/deprecation-contracts (v3.5.1): Extracting archive
+  - Installing symfony/routing (v7.2.0): Extracting archive
+  - Installing symfony/process (v7.2.0): Extracting archive
+  - Installing symfony/polyfill-php83 (v1.31.0): Extracting archive
+  - Installing symfony/polyfill-intl-normalizer (v1.31.0): Extracting archive
+  - Installing symfony/polyfill-intl-idn (v1.31.0): Extracting archive
+  - Installing symfony/mime (v7.2.1): Extracting archive
+  - Installing psr/container (2.0.2): Extracting archive
+  - Installing symfony/service-contracts (v3.5.1): Extracting archive
+  - Installing psr/event-dispatcher (1.0.0): Extracting archive
+  - Installing symfony/event-dispatcher-contracts (v3.5.1): Extracting archive
+  - Installing symfony/event-dispatcher (v7.2.0): Extracting archive
+  - Installing psr/log (3.0.2): Extracting archive
+  - Installing doctrine/lexer (3.0.1): Extracting archive
+  - Installing egulias/email-validator (4.0.2): Extracting archive
+  - Installing symfony/mailer (v7.2.0): Extracting archive
+  - Installing symfony/http-foundation (v7.2.0): Extracting archive
+  - Installing symfony/error-handler (v7.2.1): Extracting archive
+  - Installing symfony/http-kernel (v7.2.1): Extracting archive
+  - Installing symfony/finder (v7.2.0): Extracting archive
+  - Installing symfony/polyfill-intl-grapheme (v1.31.0): Extracting archive
+  - Installing symfony/string (v7.2.0): Extracting archive
+  - Installing symfony/console (v7.2.1): Extracting archive
+  - Installing ramsey/collection (2.0.0): Extracting archive
+  - Installing brick/math (0.12.1): Extracting archive
+  - Installing ramsey/uuid (4.7.6): Extracting archive
+  - Installing psr/simple-cache (3.0.0): Extracting archive
+  - Installing nunomaduro/termwind (v2.3.0): Extracting archive
+  - Installing symfony/translation-contracts (v3.5.1): Extracting archive
+  - Installing symfony/translation (v7.2.0): Extracting archive
+  - Installing psr/clock (1.0.0): Extracting archive
+  - Installing symfony/clock (v7.2.0): Extracting archive
+  - Installing carbonphp/carbon-doctrine-types (3.2.0): Extracting archive
+  - Installing nesbot/carbon (3.8.2): Extracting archive
+  - Installing monolog/monolog (3.8.1): Extracting archive
+  - Installing psr/http-message (2.0): Extracting archive
+  - Installing psr/http-factory (1.1.0): Extracting archive
+  - Installing league/uri-interfaces (7.5.0): Extracting archive
+  - Installing league/uri (7.5.1): Extracting archive
+  - Installing league/mime-type-detection (1.16.0): Extracting archive
+  - Installing league/flysystem-local (3.29.0): Extracting archive
+  - Installing league/flysystem (3.29.1): Extracting archive
+  - Installing nette/utils (v4.0.5): Extracting archive
+  - Installing nette/schema (v1.3.2): Extracting archive
+  - Installing dflydev/dot-access-data (v3.0.3): Extracting archive
+  - Installing league/config (v1.2.0): Extracting archive
+  - Installing league/commonmark (2.6.0): Extracting archive
+  - Installing laravel/serializable-closure (v2.0.0): Extracting archive
+  - Installing laravel/prompts (v0.3.2): Extracting archive
+  - Installing guzzlehttp/uri-template (v1.0.3): Extracting archive
+  - Installing psr/http-client (1.0.3): Extracting archive
+  - Installing ralouphie/getallheaders (3.0.3): Extracting archive
+  - Installing guzzlehttp/psr7 (2.7.0): Extracting archive
+  - Installing guzzlehttp/promises (2.0.4): Extracting archive
+  - Installing guzzlehttp/guzzle (7.9.2): Extracting archive
+  - Installing fruitcake/php-cors (v1.3.0): Extracting archive
+  - Installing webmozart/assert (1.11.0): Extracting archive
+  - Installing dragonmantank/cron-expression (v3.4.0): Extracting archive
+  - Installing doctrine/inflector (2.0.10): Extracting archive
+  - Installing laravel/framework (v11.35.1): Extracting archive
+  - Installing anourvalar/eloquent-serialize (1.2.27): Extracting archive
+  - Installing spatie/laravel-package-tools (1.17.0): Extracting archive
+  - Installing symfony/var-exporter (v7.2.0): Extracting archive
+  - Installing psr/cache (3.0.0): Extracting archive
+  - Installing symfony/cache-contracts (v3.5.1): Extracting archive
+  - Installing symfony/cache (v7.2.1): Extracting archive
+  - Installing grpc/grpc (1.57.0): Extracting archive
+  - Installing google/protobuf (v4.29.1): Extracting archive
+  - Installing google/longrunning (0.4.6): Extracting archive
+  - Installing firebase/php-jwt (v6.10.2): Extracting archive
+  - Installing google/auth (v1.45.0): Extracting archive
+  - Installing google/grpc-gcp (v0.4.0): Extracting archive
+  - Installing google/common-protos (4.8.3): Extracting archive
+  - Installing google/gax (v1.36.0): Extracting archive
+  - Installing google/analytics-data (v0.9.5): Extracting archive
+  - Installing spatie/laravel-analytics (5.5.0): Extracting archive
+  - Installing masterminds/html5 (2.9.0): Extracting archive
+  - Installing symfony/html-sanitizer (v7.2.0): Extracting archive
+  - Installing spatie/invade (2.1.0): Extracting archive
+  - Installing spatie/color (1.6.2): Extracting archive
+  - Installing ryangjchandler/blade-capture-directive (v1.0.0): Extracting archive
+  - Installing livewire/livewire (v3.5.17): Extracting archive
+  - Installing kirschbaum-development/eloquent-power-joins (4.0.1): Extracting archive
+  - Installing doctrine/deprecations (1.1.4): Extracting archive
+  - Installing doctrine/dbal (4.2.1): Extracting archive
+  - Installing blade-ui-kit/blade-icons (1.7.2): Extracting archive
+  - Installing blade-ui-kit/blade-heroicons (2.5.0): Extracting archive
+  - Installing filament/support (v3.2.130): Extracting archive
+  - Installing filament/widgets (v3.2.130): Extracting archive
+  - Installing bezhansalleh/filament-google-analytics (2.1.1): Extracting archive
+  - Installing sebastian/environment (7.2.0): Extracting archive
+  - Installing staabm/side-effects-detector (1.0.5): Extracting archive
+  - Installing sebastian/version (5.0.2): Extracting archive
+  - Installing sebastian/type (5.1.0): Extracting archive
+  - Installing sebastian/recursion-context (6.0.2): Extracting archive
+  - Installing sebastian/object-reflector (4.0.1): Extracting archive
+  - Installing sebastian/object-enumerator (6.0.1): Extracting archive
+  - Installing sebastian/global-state (7.0.2): Extracting archive
+  - Installing sebastian/exporter (6.3.0): Extracting archive
+  - Installing sebastian/diff (6.0.2): Extracting archive
+  - Installing sebastian/comparator (6.2.1): Extracting archive
+  - Installing sebastian/code-unit (3.0.2): Extracting archive
+  - Installing sebastian/cli-parser (3.0.2): Extracting archive
+  - Installing phpunit/php-timer (7.0.1): Extracting archive
+  - Installing phpunit/php-text-template (4.0.1): Extracting archive
+  - Installing phpunit/php-invoker (5.0.1): Extracting archive
+  - Installing phpunit/php-file-iterator (5.1.0): Extracting archive
+  - Installing theseer/tokenizer (1.2.3): Extracting archive
+  - Installing nikic/php-parser (v5.3.1): Extracting archive
+  - Installing sebastian/lines-of-code (3.0.1): Extracting archive
+  - Installing sebastian/complexity (4.0.1): Extracting archive
+  - Installing sebastian/code-unit-reverse-lookup (4.0.1): Extracting archive
+  - Installing phpunit/php-code-coverage (11.0.8): Extracting archive
+  - Installing phar-io/version (3.2.1): Extracting archive
+  - Installing phar-io/manifest (2.0.4): Extracting archive
+  - Installing myclabs/deep-copy (1.12.1): Extracting archive
+  - Installing phpunit/phpunit (11.5.1): Extracting archive
+  - Installing jean85/pretty-package-versions (2.1.0): Extracting archive
+  - Installing fidry/cpu-core-counter (1.2.0): Extracting archive
+  - Installing brianium/paratest (v7.7.0): Extracting archive
+  - Installing danharrin/date-format-converter (v0.3.1): Extracting archive
+  - Installing dasprid/enum (1.0.6): Extracting archive
+  - Installing devdojo/app (0.11): Extracting archive
+  - Installing paragonie/constant_time_encoding (v3.0.0): Extracting archive
+  - Installing pragmarx/google2fa (v8.0.3): Extracting archive
+  - Installing livewire/volt (v1.6.6): Extracting archive
+  - Installing paragonie/random_compat (v9.99.100): Extracting archive
+  - Installing phpseclib/phpseclib (3.0.43): Extracting archive
+  - Installing league/oauth1-client (v1.11.0): Extracting archive
+  - Installing laravel/socialite (v5.16.0): Extracting archive
+  - Installing laravel/folio (v1.1.9): Extracting archive
+  - Installing devdojo/config-writer (0.0.7): Extracting archive
+  - Installing codeat3/blade-phosphor-icons (2.2.0): Extracting archive
+  - Installing calebporzio/sushi (v2.5.2): Extracting archive
+  - Installing bacon/bacon-qr-code (v3.0.1): Extracting archive
+  - Installing devdojo/auth (1.0.8): Extracting archive
+  - Installing devdojo/themes (0.0.11): Extracting archive
+  - Installing fakerphp/faker (v1.24.1): Extracting archive
+  - Installing openspout/openspout (v4.28.2): Extracting archive
+  - Installing league/csv (9.20.0): Extracting archive
+  - Installing filament/actions (v3.2.130): Extracting archive
+  - Installing filament/notifications (v3.2.130): Extracting archive
+  - Installing filament/infolists (v3.2.130): Extracting archive
+  - Installing filament/forms (v3.2.130): Extracting archive
+  - Installing filament/tables (v3.2.130): Extracting archive
+  - Installing danharrin/livewire-rate-limiting (v1.3.1): Extracting archive
+  - Installing filament/filament (v3.2.130): Extracting archive
+  - Installing gehrisandro/tailwind-merge-php (v1.1.2): Extracting archive
+  - Installing gehrisandro/tailwind-merge-laravel (v1.2.0): Extracting archive
+  - Installing intervention/image (2.7.2): Extracting archive
+  - Installing lab404/laravel-impersonate (1.7.5): Extracting archive
+  - Installing php-webdriver/webdriver (1.15.2): Extracting archive
+  - Installing laravel/dusk (v8.2.12): Extracting archive
+  - Installing psy/psysh (v0.12.7): Extracting archive
+  - Installing laravel/tinker (v2.10.0): Extracting archive
+  - Installing laravel/ui (v4.6.0): Extracting archive
+  - Installing lcobucci/clock (3.3.1): Extracting archive
+  - Installing hamcrest/hamcrest-php (v2.0.1): Extracting archive
+  - Installing mockery/mockery (1.6.12): Extracting archive
+  - Installing filp/whoops (2.16.0): Extracting archive
+  - Installing nunomaduro/collision (v8.5.0): Extracting archive
+  - Installing phpstan/phpdoc-parser (2.0.0): Extracting archive
+  - Installing phpdocumentor/reflection-common (2.2.0): Extracting archive
+  - Installing phpdocumentor/type-resolver (1.10.0): Extracting archive
+  - Installing phpdocumentor/reflection-docblock (5.6.1): Extracting archive
+  - Installing ta-tikoma/phpunit-architecture-test (0.8.4): Extracting archive
+  - Installing pestphp/pest-plugin-arch (v3.0.0): Extracting archive
+  - Installing pestphp/pest-plugin-mutate (v3.0.5): Extracting archive
+  - Installing pestphp/pest (v3.7.1): Extracting archive
+  - Installing pestphp/pest-plugin-laravel (v3.0.0): Extracting archive
+  - Installing ralphjsmit/livewire-urls (1.4.0): Extracting archive
+  - Installing spatie/error-solutions (1.1.2): Extracting archive
+  - Installing spatie/backtrace (1.7.1): Extracting archive
+  - Installing spatie/flare-client-php (1.10.0): Extracting archive
+  - Installing spatie/ignition (1.15.0): Extracting archive
+  - Installing spatie/laravel-ignition (2.9.0): Extracting archive
+  - Installing spatie/laravel-permission (6.10.1): Extracting archive
+  - Installing stripe/stripe-php (v15.10.0): Extracting archive
+  - Installing lcobucci/jwt (4.3.0): Extracting archive
+  - Installing tymon/jwt-auth (2.1.1): Extracting archive
+   0/183 [>---------------------------]   0%
+  20/183 [===>------------------------]  10%
+  40/183 [======>---------------------]  21%
+  60/183 [=========>------------------]  32%
+  80/183 [============>---------------]  43%
+ 100/183 [===============>------------]  54%
+ 110/183 [================>-----------]  60%
+ 129/183 [===================>--------]  70%
+ 139/183 [=====================>------]  75%
+ 149/183 [======================>-----]  81%
+ 169/183 [=========================>--]  92%
+ 179/183 [===========================>]  97%
+ 183/183 [============================] 100%
+Generating optimized autoload files
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover
+
+   INFO  Discovering packages.  
+
+  alebatistella/duskapiconf ..................................................................................... DONE
+  anourvalar/eloquent-serialize ................................................................................. DONE
+  bezhansalleh/filament-google-analytics ........................................................................ DONE
+  blade-ui-kit/blade-heroicons .................................................................................. DONE
+  blade-ui-kit/blade-icons ...................................................................................... DONE
+  codeat3/blade-phosphor-icons .................................................................................. DONE
+  devdojo/auth .................................................................................................. DONE
+  devdojo/config-writer ......................................................................................... DONE
+  filament/actions .............................................................................................. DONE
+  filament/filament ............................................................................................. DONE
+  filament/forms ................................................................................................ DONE
+  filament/infolists ............................................................................................ DONE
+  filament/notifications ........................................................................................ DONE
+  filament/support .............................................................................................. DONE
+  filament/tables ............................................................................................... DONE
+  filament/widgets .............................................................................................. DONE
+  gehrisandro/tailwind-merge-laravel ............................................................................ DONE
+  intervention/image ............................................................................................ DONE
+  kirschbaum-development/eloquent-power-joins ................................................................... DONE
+  lab404/laravel-impersonate .................................................................................... DONE
+  laravel/dusk .................................................................................................. DONE
+  laravel/folio ................................................................................................. DONE
+  laravel/socialite ............................................................................................. DONE
+  laravel/tinker ................................................................................................ DONE
+  laravel/ui .................................................................................................... DONE
+  livewire/livewire ............................................................................................. DONE
+  livewire/volt ................................................................................................. DONE
+  nesbot/carbon ................................................................................................. DONE
+  nunomaduro/collision .......................................................................................... DONE
+  nunomaduro/termwind ........................................................................................... DONE
+  pestphp/pest-plugin-laravel ................................................................................... DONE
+  ralphjsmit/livewire-urls ...................................................................................... DONE
+  ryangjchandler/blade-capture-directive ........................................................................ DONE
+  spatie/laravel-analytics ...................................................................................... DONE
+  spatie/laravel-ignition ....................................................................................... DONE
+  spatie/laravel-permission ..................................................................................... DONE
+  tymon/jwt-auth ................................................................................................ DONE
+
+> @php artisan storage:link
+
+   INFO  The [C:\Users\kumbh\Herd\blog\public\storage] link has been connected to [C:\Users\kumbh\Herd\blog\storage\app/public].  
+
+   INFO  The [C:\Users\kumbh\Herd\blog\public\wave/docs] link has been connected to [C:\Users\kumbh\Herd\blog\wave/docs].  
+
+The system cannot find the file specified.
+> @php artisan filament:upgrade
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\forms\components\color-picker.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\forms\components\date-time-picker.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\forms\components\file-upload.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\forms\components\key-value.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\forms\components\markdown-editor.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\forms\components\rich-editor.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\forms\components\select.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\forms\components\tags-input.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\forms\components\textarea.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\widgets\components\chart.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\widgets\components\stats-overview\stat\chart.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\filament\app.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\filament\echo.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\notifications\notifications.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\support\async-alpine.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\support\support.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\js\filament\tables\tables.js  
+  ⇂ C:\Users\kumbh\Herd\blog\public\css\bezhansalleh\filament-google-analytics\filament-google-analytics.css  
+  ⇂ C:\Users\kumbh\Herd\blog\public\css\filament\forms\forms.css  
+  ⇂ C:\Users\kumbh\Herd\blog\public\css\filament\support\support.css  
+  ⇂ C:\Users\kumbh\Herd\blog\public\css\filament\filament\app.css  
+
+   INFO  Successfully published assets!  
+
+   INFO  Configuration cache cleared successfully.  
+
+   INFO  Route cache cleared successfully.  
+
+   INFO  Compiled views cleared successfully.  
+
+   INFO  Successfully upgraded!  
+
+120 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+Completed Composer Install 
